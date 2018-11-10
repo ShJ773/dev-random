@@ -1,1 +1,2 @@
-node fb.js
+node fb.js <max-number>
+- default is 20
